@@ -1,15 +1,10 @@
 ABOUT ME
 
 🧠 Maaz Ahmed
-Aspiring Data Scientist | AI Enthusiast | Data Analyst | D3.js Explorer
+Aspiring Data Scientist | AI Enthusiast | Data Analyst
 
-I'm Maaz Ahmed, a driven and curious Data Science student passionate about turning data into insights and impact. With a solid foundation in Python, SQL, and data visualization tools like Tableau and D3.js, I specialize in building analytical solutions that are not only technically sound but also visually compelling.
+I am a data-focused technologist with strong interests in Data Science, Machine Learning, and Applied AI systems. My work centers around transforming raw data into structured insights and deployable intelligence — from exploratory analysis and feature engineering to building and optimizing machine learning models for real-world use cases.
 
-My academic journey at FAST NUCES has equipped me with key skills in machine learning, data mining, and statistical modeling. I have hands-on experience working with large datasets, cleaning and analyzing them to extract actionable insights. I also enjoy building visual dashboards and interactive data visualizations to tell meaningful stories with data.
+I have hands-on experience in designing end-to-end ML workflows, including recommendation systems, sentiment analysis, clustering-based segmentation, and computer vision pipelines. I am particularly interested in bridging the gap between modeling and production by building scalable, deployable solutions using tools like Python, SQL, Docker, and cloud platforms.
 
-🧰 Core Skills
-Languages & Tools: Python, SQL, Pandas, NumPy, Scikit-learn, HTML/CSS
-Data Science & Analytics: Machine Learning, Data Cleaning, EDA, Predictive Modeling, Big Data
-Visualization: Tableau, Powerbi, D3.js, Matplotlib & Seaborn
-
-
+Beyond modeling, I have worked on data warehousing, ETL pipelines, interactive analytics dashboards, and full-stack business applications — giving me a practical understanding of how data systems integrate into broader organizational workflows. I enjoy building systems that are not just technically sound, but business-relevant and performance-aware.
