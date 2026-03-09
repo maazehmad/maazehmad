@@ -99,22 +99,6 @@ Built a **full-stack vendor management platform** enabling vendor onboarding, co
 
 ---
 
-# 📈 Current Focus
-
-* Deep Learning & Computer Vision
-* MLOps & Model Deployment
-* Cloud-based ML Systems
-* AI-powered applications
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maazehmad\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maazehmad\&layout=compact\&theme=tokyonight)
-
----
 
 
 
